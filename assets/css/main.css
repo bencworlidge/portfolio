@@ -3053,3 +3053,13 @@ i {
 .socials {
   margin-top: 2em;
 }
+
+.other-skills {
+  color: #282b34;
+  display: grid;
+}
+
+.other-skills i {
+  color: #282b34;
+  display: grid;
+}
